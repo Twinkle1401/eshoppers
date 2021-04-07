@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/eshoppers/static/css/main.c88d5d75.chunk.css",
+    "main.js": "/eshoppers/static/js/main.5917fb42.chunk.js",
+    "main.js.map": "/eshoppers/static/js/main.5917fb42.chunk.js.map",
+    "runtime-main.js": "/eshoppers/static/js/runtime-main.3cb5e8f8.js",
+    "runtime-main.js.map": "/eshoppers/static/js/runtime-main.3cb5e8f8.js.map",
+    "static/js/2.3f15a0a2.chunk.js": "/eshoppers/static/js/2.3f15a0a2.chunk.js",
+    "static/js/2.3f15a0a2.chunk.js.map": "/eshoppers/static/js/2.3f15a0a2.chunk.js.map",
+    "index.html": "/eshoppers/index.html",
+    "static/css/main.c88d5d75.chunk.css.map": "/eshoppers/static/css/main.c88d5d75.chunk.css.map",
+    "static/js/2.3f15a0a2.chunk.js.LICENSE.txt": "/eshoppers/static/js/2.3f15a0a2.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/eshoppers/static/media/background.392871cc.jpg",
+    "static/media/bag.4bed7cff.jpg": "/eshoppers/static/media/bag.4bed7cff.jpg",
+    "static/media/dslr.917eb102.jpg": "/eshoppers/static/media/dslr.917eb102.jpg",
+    "static/media/microphone.f4be963c.jpg": "/eshoppers/static/media/microphone.f4be963c.jpg",
+    "static/media/perfume.ca6db42e.jpg": "/eshoppers/static/media/perfume.ca6db42e.jpg",
+    "static/media/shoes.15774b5e.jpg": "/eshoppers/static/media/shoes.15774b5e.jpg",
+    "static/media/watch.db67dea9.jpg": "/eshoppers/static/media/watch.db67dea9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3cb5e8f8.js",
+    "static/js/2.3f15a0a2.chunk.js",
+    "static/css/main.c88d5d75.chunk.css",
+    "static/js/main.5917fb42.chunk.js"
+  ]
+}
