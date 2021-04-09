@@ -16,8 +16,8 @@ function App() {
     <Router>
     <Navbar />
       <Switch>
-        <Route path="/" exact component={Products}/>
-        <Route path="/cart" exact component={Cart}/>
+        <Route exact path="/"  component={Products}/>
+        <Route exact path="/cart" component={Cart}/>
         <Route component={NotFound}/>
       </Switch>
     </Router>
