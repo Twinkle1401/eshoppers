@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/eshoppers/static/css/main.245c1e55.chunk.css",
-    "main.js": "/eshoppers/static/js/main.5917fb42.chunk.js",
-    "main.js.map": "/eshoppers/static/js/main.5917fb42.chunk.js.map",
+    "main.js": "/eshoppers/static/js/main.eb825533.chunk.js",
+    "main.js.map": "/eshoppers/static/js/main.eb825533.chunk.js.map",
     "runtime-main.js": "/eshoppers/static/js/runtime-main.3cb5e8f8.js",
     "runtime-main.js.map": "/eshoppers/static/js/runtime-main.3cb5e8f8.js.map",
     "static/js/2.3f15a0a2.chunk.js": "/eshoppers/static/js/2.3f15a0a2.chunk.js",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.3cb5e8f8.js",
     "static/js/2.3f15a0a2.chunk.js",
     "static/css/main.245c1e55.chunk.css",
-    "static/js/main.5917fb42.chunk.js"
+    "static/js/main.eb825533.chunk.js"
   ]
 }
