@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/eshoppers/static/css/main.245c1e55.chunk.css",
-    "main.js": "/eshoppers/static/js/main.eb825533.chunk.js",
-    "main.js.map": "/eshoppers/static/js/main.eb825533.chunk.js.map",
+    "main.css": "/eshoppers/static/css/main.f9bd5534.chunk.css",
+    "main.js": "/eshoppers/static/js/main.71ec76ae.chunk.js",
+    "main.js.map": "/eshoppers/static/js/main.71ec76ae.chunk.js.map",
     "runtime-main.js": "/eshoppers/static/js/runtime-main.3cb5e8f8.js",
     "runtime-main.js.map": "/eshoppers/static/js/runtime-main.3cb5e8f8.js.map",
-    "static/js/2.3f15a0a2.chunk.js": "/eshoppers/static/js/2.3f15a0a2.chunk.js",
-    "static/js/2.3f15a0a2.chunk.js.map": "/eshoppers/static/js/2.3f15a0a2.chunk.js.map",
+    "static/js/2.c1212857.chunk.js": "/eshoppers/static/js/2.c1212857.chunk.js",
+    "static/js/2.c1212857.chunk.js.map": "/eshoppers/static/js/2.c1212857.chunk.js.map",
     "index.html": "/eshoppers/index.html",
-    "static/css/main.245c1e55.chunk.css.map": "/eshoppers/static/css/main.245c1e55.chunk.css.map",
-    "static/js/2.3f15a0a2.chunk.js.LICENSE.txt": "/eshoppers/static/js/2.3f15a0a2.chunk.js.LICENSE.txt",
+    "static/css/main.f9bd5534.chunk.css.map": "/eshoppers/static/css/main.f9bd5534.chunk.css.map",
+    "static/js/2.c1212857.chunk.js.LICENSE.txt": "/eshoppers/static/js/2.c1212857.chunk.js.LICENSE.txt",
     "static/media/App.css": "/eshoppers/static/media/background.392871cc.jpg",
     "static/media/bag.4bed7cff.jpg": "/eshoppers/static/media/bag.4bed7cff.jpg",
     "static/media/dslr.917eb102.jpg": "/eshoppers/static/media/dslr.917eb102.jpg",
@@ -20,8 +20,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.3cb5e8f8.js",
-    "static/js/2.3f15a0a2.chunk.js",
-    "static/css/main.245c1e55.chunk.css",
-    "static/js/main.eb825533.chunk.js"
+    "static/js/2.c1212857.chunk.js",
+    "static/css/main.f9bd5534.chunk.css",
+    "static/js/main.71ec76ae.chunk.js"
   ]
 }
