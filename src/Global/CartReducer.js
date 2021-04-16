@@ -1,5 +1,6 @@
 import Cart from "../components/Cart";
 
+
 export const CartReducer = (state,action) => {
     const {shoppingCart, totalPrice, qty} =state;
 
@@ -7,6 +8,7 @@ export const CartReducer = (state,action) => {
     let index;
     let updatedPrice;
     let updatedQty;
+    
 switch(action.type){
 
     case 'add_to_cart' :
@@ -49,7 +51,7 @@ switch(action.type){
 
                 case 'DELETE':
                     product=action.cart;
-                    let filtered= shoppingCart.filter(product=> product.id!=action.id);
+                    let filtered= shoppingCart.filter(product=> product.id!==action.id);
                     updatedQty=qty - product.qty;
                     updatedPrice= totalPrice- product.price*product.qty;
                     return {shoppingCart: [...filtered], totalPrice:updatedPrice, qty:updatedQty}
